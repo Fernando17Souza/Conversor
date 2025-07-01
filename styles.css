@@ -107,7 +107,7 @@ section{
     gap: 4px;
 }
 
-.currency {
+.currency, .currency-name {
     color: #777777;
     font-size: 14px;
    
